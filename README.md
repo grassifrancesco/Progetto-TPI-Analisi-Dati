@@ -1,5 +1,5 @@
 # I.I.S. Benedetto Castelli di Brescia, A.S. 2024-2025
-# Progetto di Grassi Francesco, classe 4AI di Tecnologie di Progettazione Informatica
+# Progetto di Grassi Francesco, classe 4AI, di Tecnologie Informatiche
 
 ## Titolo progetto
 Analisi dei dati di emissioni di CO2 e di index di felicità mondiale
